@@ -2,7 +2,6 @@
 
 This project is a recommendation engine designed to suggest Data Structures and Algorithms (DSA) problems to users. The recommendation engine utilizes various algorithms and techniques to provide personalized recommendations based on the user's skill level, interests, and past performance. The goal of this project is to help users enhance their DSA skills and practice solving relevant problems.
 
-![Problem Recommendation Engine](screenshot.png)
 
 ## Features
 
